@@ -13,7 +13,13 @@ A quiz about coding which will ask a user a series of questions then give them a
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/68718639/95045159-92a7c500-069e-11eb-85f0-bebd6509b03c.png)
 
+![image](https://user-images.githubusercontent.com/68718639/95045176-9e938700-069e-11eb-8803-acd594e356a4.png)
+
+![image](https://user-images.githubusercontent.com/68718639/95045206-aeab6680-069e-11eb-8179-453ca073a716.png)
+
+![image](https://user-images.githubusercontent.com/68718639/95045242-c08d0980-069e-11eb-8860-5aa6e97a4c06.png)
 
 ## Contributing
 
